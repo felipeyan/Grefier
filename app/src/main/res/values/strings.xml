@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Grefier</string>
+    <string name="app_version">0.1.0</string>
+    <string name="home">Home</string>
+    <string name="recordings">Recordings</string>
+    <string name="settings">Settings</string>
+</resources>
