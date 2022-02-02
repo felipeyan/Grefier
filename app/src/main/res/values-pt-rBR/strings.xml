@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grefier</string>
+    <string name="home">Início</string>
+    <string name="recordings">Gravações</string>
+    <string name="settings">Configurações</string>
+    <string name="rec_started">Gravação iniciada!</string>
+    <string name="rec_finished">Gravação finalizada!</string>
+</resources>

@@ -9,5 +9,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="background">#0D1117</color>
     <color name="accent">#5CBDFF</color>
+    <color name="accent_red">#FF5C5C</color>
+    <color name="accent_pressed">#317CAF</color>
     <color name="unselected">#566068</color>
 </resources>
